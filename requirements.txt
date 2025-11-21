@@ -1,0 +1,10 @@
+openai-whisper
+sounddevice
+pyttsx3
+pvporcupine
+pyaudio
+streamlit
+pandas
+openai
+
+
