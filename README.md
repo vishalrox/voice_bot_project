@@ -51,20 +51,26 @@ This is a complete Voice Bot System with:
 
 📂 Folder Structure
 
+```
 voice_bot_project/
 │
-├── main.py                    # Terminal bot
-├── voice_ui.py                # GUI interface
-├── wakeword_porcupine.py      # Wake word detection
-├── stt.py                     # Whisper speech-to-text
-├── tts.py                     # Text-to-speech with speaking lock
-├── nlu.py                     # Intent detection
-├── response_generator.py      # Response logic
-├── backend.py                 # DB storage & list of intents/ FAQs
-├── dashboard.py               # Streamlit analytics dashboard
+├── main.py                     # Terminal bot (runs the voice assistant)
+├── voice_ui.py                 # GUI interface for the assistant
+├── wakeword_porcupine.py       # Wake-word detection (Porcupine)
+├── stt.py                      # Speech-to-Text using Whisper
+├── tts.py                      # Text-to-Speech with speaking lock
+├── nlu.py                      # Natural Language Understanding (intent detection)
+├── response_generator.py       # Generates responses based on intent
+├── backend.py                  # DB storage + list of intents & FAQs
+├── dashboard.py                # Streamlit analytics dashboard
+│
+├── models/                     # STT model files
+│   └── (Whisper model files here)
+│
 ├── requirements.txt
-├── .env                       # Picovoice key
-└── models/                    # STT model folder
+└── .env                        # Picovoice API Key
+```
+
 
 
 ⚙️ Installation
