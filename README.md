@@ -1,4 +1,4 @@
-<img width="510" height="638" alt="Screenshot 2025-11-22 at 10 55 49 AM" src="https://github.com/user-attachments/assets/02e4ca47-1294-4fad-b5e5-f20a21b7392d" />🎙️ AI Voice Bot Project
+🎙️ AI Voice Bot Project
 Intelligent Wake-Word Activated Voice Assistant with NLP + Dashboard
 
 🚀 Overview
@@ -46,39 +46,7 @@ This is a complete Voice Bot System with:
 
 🏗 Architecture Diagram
 
- ┌──────────────┐     Wake word         ┌────────────────────┐
- │ Microphone   │ ──────────────────▶   │ Wake Word Engine   │
- └──────────────┘                       │ (Porcupine)        │
-                                        └─────────┬──────────┘
-                                                  │ detected
-                                                  ▼
-                                        ┌────────────────────┐
-                                        │ Speech-to-Text     │
-                                        │ (Whisper STT)      │
-                                        └─────────┬──────────┘
-                                                  │ text
-                                                  ▼
-                                        ┌────────────────────┐
-                                        │ NLU Engine         │
-                                        │ Intent Detection   │
-                                        └─────────┬──────────┘
-                                                  │ intent
-                                                  ▼
-                                        ┌────────────────────┐
-                                        │ Response Generator │
-                                        └─────────┬──────────┘
-                                                  │ reply
-                                                  ▼
-                                        ┌────────────────────┐
-                                        │ Text-to-Speech     │
-                                        └─────────┬──────────┘
-                                                  │ spoken reply
-                                                  ▼
-                                          ┌─────────────┐
-                                          │ User Hears  │
-                                          └─────────────┘
-
-
+<img width="510" height="638" alt="Screenshot 2025-11-22 at 10 55 49 AM" src="https://github.com/user-attachments/assets/02e4ca47-1294-4fad-b5e5-f20a21b7392d" /> 
 
 
 📂 Folder Structure
@@ -142,7 +110,6 @@ Web dashboard opens at:
 
 👉 http://localhost:85xx
 
-8501
 
 📊 Dashboard Preview (Simplotel-Style)
 
