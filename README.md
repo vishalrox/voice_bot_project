@@ -1,4 +1,4 @@
-🎙️ AI Voice Bot Project
+<img width="510" height="638" alt="Screenshot 2025-11-22 at 10 55 49 AM" src="https://github.com/user-attachments/assets/02e4ca47-1294-4fad-b5e5-f20a21b7392d" />🎙️ AI Voice Bot Project
 Intelligent Wake-Word Activated Voice Assistant with NLP + Dashboard
 
 🚀 Overview
@@ -77,6 +77,8 @@ This is a complete Voice Bot System with:
                                           ┌─────────────┐
                                           │ User Hears  │
                                           └─────────────┘
+
+
 
 
 📂 Folder Structure
