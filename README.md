@@ -1,6 +1,9 @@
 🎙️ AI Voice Bot Project
 Intelligent Wake-Word Activated Voice Assistant with NLP + Dashboard
 
+<img width="466" height="548" alt="Screenshot 2025-11-22 at 11 19 37 AM" src="https://github.com/user-attachments/assets/c0ebe885-8ac7-4c68-b6b0-7f865e943c3c" />
+
+
 🚀 Overview
 
 This project is an AI-powered Voice Assistant designed to behave like a smart speaker:
@@ -117,19 +120,26 @@ Web dashboard opens at:
 👉 http://localhost:85xx
 
 
-📊 Dashboard Preview (Simplotel-Style)
+📊 Dashboard Preview
 
 Total interactions
 
-Success rate
+Successful Response 
 
-Intent distribution
+Success rate 
 
-Recent queries
+Active intents 
+
+Intent distribution 
+
+Response quality 
+
+Recent queries 
 
 Performance metrics
 
-Filters → date range, query search, intent selection
+<img width="1440" height="900" alt="Screenshot 2025-11-22 at 12 23 10 AM" src="https://github.com/user-attachments/assets/597cc4ab-e116-4a07-a7c9-c274bb2dd977" />
+
 
 
 
